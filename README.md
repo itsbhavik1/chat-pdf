@@ -1,6 +1,5 @@
 # Chat with your PDFs
 
-> This app was built as part of a challenge in the **Codebender AI Bootcamp**. Learn how to build projects like these [here](https://lastcodebender.com/bootcamp).
 
 This app allows you to chat with your PDFs.
 
