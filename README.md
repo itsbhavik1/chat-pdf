@@ -12,8 +12,7 @@ The app is built with Next.js. It uses PDF.js to parse the PDF file and preview 
 
 This project is built by :
 
-- CodeBlazer [𝕏](https://twitter.com/codeblazer06)
-- The Codebender [𝕏](https://twitter.com/ZaurbekStark)/[YouTube](https://www.youtube.com/@thecodebendermaster)
+Team firecrakcers
 
 ## Getting Started
 

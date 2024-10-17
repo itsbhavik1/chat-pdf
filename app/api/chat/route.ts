@@ -12,7 +12,7 @@ export async function POST(req: Request, res: Response) {
   const { messages } = await req.json();
 
   const response = await openai.chat.completions.create({
-    model: "mistralai/mixtral-8x7b-instruct-v0.1",
+    model: "mistralai/mistral-7b-instruct-v0.3",
     messages,
     stream: true,
     max_tokens: 1024,
