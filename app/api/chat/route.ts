@@ -4,7 +4,7 @@ import { OpenAIStream, StreamingTextResponse } from 'ai';
 export const runtime = 'edge';
 
 const openai = new OpenAI({
-  apiKey: process.env.NVIDIA_API_KEY,
+  apiKey: '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',
   baseURL: 'https://integrate.api.nvidia.com/v1',
 })
 
